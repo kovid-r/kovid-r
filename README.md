@@ -3,7 +3,7 @@
 
 I am Kovid Rathee. I work for a Melbourne-based tech consulting company called Servian. I have worked. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat_square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kovidrathee/)](https://www.linkedin.com/in/anirudhemmadi/) [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://kovidrathee.medium.com/)](https://kovidrathee.medium.com)      ![Linktree Badge](https://img.shields.io/badge/-Linktree-03a57a?style=flat-square&labelColor=000000&logo=Linktree&link=https://linktr.ee/kovid)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat_square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kovidrathee/)](https://www.linkedin.com/in/kovidrathee/) [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://kovidrathee.medium.com/)](https://kovidrathee.medium.com)      ![Linktree Badge](https://img.shields.io/badge/-Linktree-03a57a?style=flat-square&labelColor=000000&logo=Linktree&link=https://linktr.ee/kovid)
 
 ## ⚡ Technologies
 
