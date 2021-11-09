@@ -23,6 +23,8 @@
 * Azure Fundamentals AZ-900
 * Airflow Fundamentals
 
+### GitHub
+
 ![Github Stats #1](https://github-readme-stats.vercel.app/api?username=kovid-r&count_private=true&show_icons=true&include_all_commits=true&layout=compact)
 
 ![GitHub Stats #2](https://github-readme-streak-stats.herokuapp.com/?user=kovid-r&layout=compact) 
