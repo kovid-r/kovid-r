@@ -1,6 +1,6 @@
 ### This Life
 
-* 💻 Senior Consultant **[@Servian](https://servian.com/)**
+* 💻 Lead Data Engineer **[@Servian](https://servian.com/)**
 * ✍️ Technical Writing Contributor **[@QuestDB](https://questdb.io/)**  **[@DataStax](https:://datastax.com/)**  **[@Vertabelo](https://vertabelo.com/)** **[@TestDriven](https://testdriven.io)**  **[@InfoQ](https://infoq.com/)** 
 
 ### Past Lives
