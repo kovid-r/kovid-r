@@ -1,7 +1,7 @@
 ### This Life
 
-* 💻 Lead Data Engineer **[@Servian](https://servian.com/)**
-* ✍️ Technical Writing Contributor **[@QuestDB](https://questdb.io/)**  **[@DataStax](https:://datastax.com/)**  **[@Vertabelo](https://vertabelo.com/)** **[@TestDriven](https://testdriven.io)**  **[@InfoQ](https://infoq.com/)** 
+* 💻 Lead Data Engineer **[@Servian](https://servian.com/)** (worked for **[@Cbus](https://www.cbussuper.com.au/)** **[@NAB](https://www.nab.com.au/)** **[@Mecca](https://www.mecca.com.au/)** **[@Infomedix](https://infomedix.com.au/)** **[@Illion](https://www.illion.com.au/)** **[@RoyMorgan](https://www.roymorgan.com/)**)
+* ✍️ Technical Writing Contributor **[@QuestDB](https://questdb.io/)** **[@DataStax](https:://datastax.com/)** **[@Vertabelo](https://vertabelo.com/)** **[@TestDriven](https://testdriven.io)**  **[@InfoQ](https://infoq.com/)** **[@Draft.dev](https://draft.dev/)** **[@Last9.io](https://blog.last9.io/choosing-effective-slis/)** **[ContainIQ](https://www.containiq.com/post/auto-instrumentation-and-opentelemetry)** **[@InfluxDB](https://www.influxdata.com/)**
 
 ### Past Lives
 
